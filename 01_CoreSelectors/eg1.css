@@ -1,0 +1,24 @@
+.c1{
+    border: 3px solid rebeccapurple;
+    padding: 5px;
+    margin: 5px;
+    background-color: red;
+}
+.c2{
+    border: 3px solid grey;
+    padding: 5px;
+    margin: 5px;
+    background-color: violet;
+}
+.c3{
+    border: 3px solid rebeccapurple;
+    padding: 5px;
+    margin: 5px;
+    background-color: lightgreen;
+}
+.c4{
+    border: 3px solid crimson;
+    padding: 5px;
+    margin: 5px;
+    background-color: cyan;
+}

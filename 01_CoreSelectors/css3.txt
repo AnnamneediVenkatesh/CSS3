@@ -1,0 +1,21 @@
+how many types of selectors in the css
+
+1. Inline CSS
+2. Internal CSS
+3. External CSS
+
+In the real time we have to use the external styling
+
+CSS selectors
+
+Core Selectors
+
+
+Relationship Selectors
+
+
+Attribute Selectors
+
+
+
+Pseudo Selectors
